@@ -1,0 +1,3026 @@
+[
+  {
+    "completed_timestamp": 1678758059000,
+    "duration": 2698770,
+    "keystone_level": 16,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Fortified",
+        "id": 10
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/8?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Sanguine",
+        "id": 8
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/3?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Volcanic",
+        "id": 3
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Thundering",
+        "id": 132
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 398
+      },
+      {
+        "character": {
+          "name": "Ruemoda",
+          "id": 173020242,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/3725?namespace=dynamic-us"
+            },
+            "id": 3725,
+            "slug": "frostmourne"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Retribution",
+          "id": 70
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/30?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Lightforged Draenei",
+          "id": 30
+        },
+        "equipped_item_level": 404
+      },
+      {
+        "character": {
+          "name": "Tashbringer",
+          "id": 130780483,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/110?namespace=dynamic-us"
+            },
+            "id": 110,
+            "slug": "stormscale"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Protection",
+          "id": 66
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 404
+      },
+      {
+        "character": {
+          "name": "Mordeith",
+          "id": 239061354,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/5?namespace=dynamic-us"
+            },
+            "id": 5,
+            "slug": "proudmoore"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Preservation",
+          "id": 1468
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/52?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Dracthyr",
+          "id": 52
+        },
+        "equipped_item_level": 404
+      },
+      {
+        "character": {
+          "name": "Tronkzsham",
+          "id": 231684953,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1566?namespace=dynamic-us"
+            },
+            "id": 1566,
+            "slug": "area-52"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/263?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Enhancement",
+          "id": 263
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/36?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Mag'har Orc",
+          "id": 36
+        },
+        "equipped_item_level": 402
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/200?namespace=dynamic-us"
+      },
+      "name": "Halls of Valor",
+      "id": 200
+    },
+    "is_completed_within_time": false,
+    "mythic_rating": {
+      "color": {
+        "r": 163,
+        "g": 53,
+        "b": 238,
+        "a": 1.0
+      },
+      "rating": 134.70412
+    },
+    "map_rating": {
+      "color": {
+        "r": 163,
+        "g": 53,
+        "b": 238,
+        "a": 1.0
+      },
+      "rating": 265.74927
+    }
+  },
+  {
+    "completed_timestamp": 1677465245000,
+    "duration": 2757568,
+    "keystone_level": 9,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Fortified",
+        "id": 10
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Raging",
+        "id": 6
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/14?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Quaking",
+        "id": 14
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Zendiel",
+          "id": 79826518,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/118?namespace=dynamic-us"
+            },
+            "id": 118,
+            "slug": "feathermoon"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Windwalker",
+          "id": 269
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Human",
+          "id": 1
+        },
+        "equipped_item_level": 375
+      },
+      {
+        "character": {
+          "name": "Timothy",
+          "id": 5251406,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/118?namespace=dynamic-us"
+            },
+            "id": 118,
+            "slug": "feathermoon"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Protection",
+          "id": 66
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Human",
+          "id": 1
+        },
+        "equipped_item_level": 402
+      },
+      {
+        "character": {
+          "name": "Illithian",
+          "id": 5413332,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/118?namespace=dynamic-us"
+            },
+            "id": 118,
+            "slug": "feathermoon"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/254?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Marksmanship",
+          "id": 254
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Night Elf",
+          "id": 4
+        },
+        "equipped_item_level": 397
+      },
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 389
+      },
+      {
+        "character": {
+          "name": "Tiddob",
+          "id": 73086208,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/118?namespace=dynamic-us"
+            },
+            "id": 118,
+            "slug": "feathermoon"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Discipline",
+          "id": 256
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/3?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Dwarf",
+          "id": 3
+        },
+        "equipped_item_level": 391
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/400?namespace=dynamic-us"
+      },
+      "name": "The Nokhud Offensive",
+      "id": 400
+    },
+    "is_completed_within_time": false,
+    "mythic_rating": {
+      "color": {
+        "r": 30,
+        "g": 255,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 78.137665
+    },
+    "map_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 298.13788
+    }
+  },
+  {
+    "completed_timestamp": 1678517506000,
+    "duration": 1950049,
+    "keystone_level": 16,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Fortified",
+        "id": 10
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/8?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Sanguine",
+        "id": 8
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/3?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Volcanic",
+        "id": 3
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Thundering",
+        "id": 132
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Excrewsabre",
+          "id": 235731775,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1566?namespace=dynamic-us"
+            },
+            "id": 1566,
+            "slug": "area-52"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/261?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Subtlety",
+          "id": 261
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Troll",
+          "id": 8
+        },
+        "equipped_item_level": 408
+      },
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 398
+      },
+      {
+        "character": {
+          "name": "Nieldan",
+          "id": 160372139,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/3209?namespace=dynamic-us"
+            },
+            "id": 3209,
+            "slug": "azralon"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Protection",
+          "id": 66
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Blood Elf",
+          "id": 10
+        },
+        "equipped_item_level": 394
+      },
+      {
+        "character": {
+          "name": "Arladon",
+          "id": 211079361,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/60?namespace=dynamic-us"
+            },
+            "id": 60,
+            "slug": "stormrage"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Beast Mastery",
+          "id": 253
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Night Elf",
+          "id": 4
+        },
+        "equipped_item_level": 397
+      },
+      {
+        "character": {
+          "name": "Linezinho",
+          "id": 193120588,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/3209?namespace=dynamic-us"
+            },
+            "id": 3209,
+            "slug": "azralon"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/270?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Mistweaver",
+          "id": 270
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Blood Elf",
+          "id": 10
+        },
+        "equipped_item_level": 405
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/200?namespace=dynamic-us"
+      },
+      "name": "Halls of Valor",
+      "id": 200
+    },
+    "is_completed_within_time": true,
+    "mythic_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 143.80894
+    },
+    "map_rating": {
+      "color": {
+        "r": 163,
+        "g": 53,
+        "b": 238,
+        "a": 1.0
+      },
+      "rating": 265.74927
+    }
+  },
+  {
+    "completed_timestamp": 1679445953000,
+    "duration": 2010413,
+    "keystone_level": 17,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Fortified",
+        "id": 10
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/123?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Spiteful",
+        "id": 123
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/12?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Grievous",
+        "id": 12
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Thundering",
+        "id": 132
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Chugbungus",
+          "id": 189493991,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/76?namespace=dynamic-us"
+            },
+            "id": 76,
+            "slug": "sargeras"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/269?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Windwalker",
+          "id": 269
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/32?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Kul Tiran",
+          "id": 32
+        },
+        "equipped_item_level": 411
+      },
+      {
+        "character": {
+          "name": "Agariss",
+          "id": 174587941,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/76?namespace=dynamic-us"
+            },
+            "id": 76,
+            "slug": "sargeras"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/266?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Demonology",
+          "id": 266
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Human",
+          "id": 1
+        },
+        "equipped_item_level": 412
+      },
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 407
+      },
+      {
+        "character": {
+          "name": "Mordeith",
+          "id": 239061354,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/5?namespace=dynamic-us"
+            },
+            "id": 5,
+            "slug": "proudmoore"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Preservation",
+          "id": 1468
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/52?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Dracthyr",
+          "id": 52
+        },
+        "equipped_item_level": 408
+      },
+      {
+        "character": {
+          "name": "Tashbringer",
+          "id": 130780483,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/110?namespace=dynamic-us"
+            },
+            "id": 110,
+            "slug": "stormscale"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Protection",
+          "id": 66
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 407
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/400?namespace=dynamic-us"
+      },
+      "name": "The Nokhud Offensive",
+      "id": 400
+    },
+    "is_completed_within_time": true,
+    "mythic_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 151.0291
+    },
+    "map_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 298.13788
+    }
+  },
+  {
+    "completed_timestamp": 1678494399000,
+    "duration": 2058758,
+    "keystone_level": 16,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Fortified",
+        "id": 10
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/8?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Sanguine",
+        "id": 8
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/3?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Volcanic",
+        "id": 3
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Thundering",
+        "id": 132
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 398
+      },
+      {
+        "character": {
+          "name": "Beanman",
+          "id": 219982460,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/66?namespace=dynamic-us"
+            },
+            "id": 66,
+            "slug": "dalaran"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/32?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Kul Tiran",
+          "id": 32
+        },
+        "equipped_item_level": 408
+      },
+      {
+        "character": {
+          "name": "Tashbringer",
+          "id": 130780483,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/110?namespace=dynamic-us"
+            },
+            "id": 110,
+            "slug": "stormscale"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Protection",
+          "id": 66
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 403
+      },
+      {
+        "character": {
+          "name": "Mordeith",
+          "id": 239061354,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/5?namespace=dynamic-us"
+            },
+            "id": 5,
+            "slug": "proudmoore"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Preservation",
+          "id": 1468
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/52?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Dracthyr",
+          "id": 52
+        },
+        "equipped_item_level": 404
+      },
+      {
+        "character": {
+          "name": "Hawtgril",
+          "id": 179283201,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/11?namespace=dynamic-us"
+            },
+            "id": 11,
+            "slug": "tichondrius"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Havoc",
+          "id": 577
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Blood Elf",
+          "id": 10
+        },
+        "equipped_item_level": 408
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/401?namespace=dynamic-us"
+      },
+      "name": "The Azure Vault",
+      "id": 401
+    },
+    "is_completed_within_time": true,
+    "mythic_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 142.41809
+    },
+    "map_rating": {
+      "color": {
+        "r": 163,
+        "g": 53,
+        "b": 238,
+        "a": 1.0
+      },
+      "rating": 273.8994
+    }
+  },
+  {
+    "completed_timestamp": 1675395791000,
+    "duration": 1418653,
+    "keystone_level": 5,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Tyrannical",
+        "id": 9
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/123?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Spiteful",
+        "id": 123
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Fortitudo",
+          "id": 164851988,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1428?namespace=dynamic-us"
+            },
+            "id": 1428,
+            "slug": "quelthalas"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Holy",
+          "id": 257
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/29?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Void Elf",
+          "id": 29
+        },
+        "equipped_item_level": 377
+      },
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 359
+      },
+      {
+        "character": {
+          "name": "Stodir",
+          "id": 5989938,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1071?namespace=dynamic-us"
+            },
+            "id": 1071,
+            "slug": "kirin-tor"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Beast Mastery",
+          "id": 253
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/3?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Dwarf",
+          "id": 3
+        },
+        "equipped_item_level": 387
+      },
+      {
+        "character": {
+          "name": "Tashbringer",
+          "id": 130780483,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/110?namespace=dynamic-us"
+            },
+            "id": 110,
+            "slug": "stormscale"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Protection",
+          "id": 66
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 384
+      },
+      {
+        "character": {
+          "name": "Lillerovia",
+          "id": 117147982,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1365?namespace=dynamic-us"
+            },
+            "id": 1365,
+            "slug": "moon-guard"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Fury",
+          "id": 72
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/29?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Void Elf",
+          "id": 29
+        },
+        "equipped_item_level": 377
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/401?namespace=dynamic-us"
+      },
+      "name": "The Azure Vault",
+      "id": 401
+    },
+    "is_completed_within_time": true,
+    "mythic_rating": {
+      "color": {
+        "r": 30,
+        "g": 255,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 64.17457
+    },
+    "map_rating": {
+      "color": {
+        "r": 163,
+        "g": 53,
+        "b": 238,
+        "a": 1.0
+      },
+      "rating": 273.8994
+    }
+  },
+  {
+    "completed_timestamp": 1679468445000,
+    "duration": 2665817,
+    "keystone_level": 18,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Fortified",
+        "id": 10
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/123?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Spiteful",
+        "id": 123
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/12?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Grievous",
+        "id": 12
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Thundering",
+        "id": 132
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Kettilbjorn",
+          "id": 62951709,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/4?namespace=dynamic-us"
+            },
+            "id": 4,
+            "slug": "kilrogg"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/103?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Feral",
+          "id": 103
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Night Elf",
+          "id": 4
+        },
+        "equipped_item_level": 411
+      },
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 407
+      },
+      {
+        "character": {
+          "name": "Chroni",
+          "id": 249273113,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1128?namespace=dynamic-us"
+            },
+            "id": 1128,
+            "slug": "azshara"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/266?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Demonology",
+          "id": 266
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/2?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Orc",
+          "id": 2
+        },
+        "equipped_item_level": 410
+      },
+      {
+        "character": {
+          "name": "Lightdown",
+          "id": 186788059,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1427?namespace=dynamic-us"
+            },
+            "id": 1427,
+            "slug": "ragnaros"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Protection",
+          "id": 66
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Blood Elf",
+          "id": 10
+        },
+        "equipped_item_level": 405
+      },
+      {
+        "character": {
+          "name": "Salask",
+          "id": 202902346,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/3733?namespace=dynamic-us"
+            },
+            "id": 3733,
+            "slug": "dreadmaul"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/65?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Holy",
+          "id": 65
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Blood Elf",
+          "id": 10
+        },
+        "equipped_item_level": 409
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/210?namespace=dynamic-us"
+      },
+      "name": "Court of Stars",
+      "id": 210
+    },
+    "is_completed_within_time": false,
+    "mythic_rating": {
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0.0
+      },
+      "rating": 0.0
+    },
+    "map_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 285.00916
+    }
+  },
+  {
+    "completed_timestamp": 1678853804000,
+    "duration": 1970154,
+    "keystone_level": 14,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Tyrannical",
+        "id": 9
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Raging",
+        "id": 6
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Storming",
+        "id": 124
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Thundering",
+        "id": 132
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Arhipova",
+          "id": 90522647,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/73?namespace=dynamic-us"
+            },
+            "id": 73,
+            "slug": "bleeding-hollow"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/262?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Elemental",
+          "id": 262
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/9?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Goblin",
+          "id": 9
+        },
+        "equipped_item_level": 404
+      },
+      {
+        "character": {
+          "name": "Ohshtfire",
+          "id": 176335500,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/11?namespace=dynamic-us"
+            },
+            "id": 11,
+            "slug": "tichondrius"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/62?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Arcane",
+          "id": 62
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Blood Elf",
+          "id": 10
+        },
+        "equipped_item_level": 382
+      },
+      {
+        "character": {
+          "name": "Zecalia",
+          "id": 239112677,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/11?namespace=dynamic-us"
+            },
+            "id": 11,
+            "slug": "tichondrius"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Brewmaster",
+          "id": 268
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/31?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Zandalari Troll",
+          "id": 31
+        },
+        "equipped_item_level": 393
+      },
+      {
+        "character": {
+          "name": "Sorigar",
+          "id": 231224907,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/11?namespace=dynamic-us"
+            },
+            "id": 11,
+            "slug": "tichondrius"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/256?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Discipline",
+          "id": 256
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/5?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Undead",
+          "id": 5
+        },
+        "equipped_item_level": 381
+      },
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 403
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/2?namespace=dynamic-us"
+      },
+      "name": "Temple of the Jade Serpent",
+      "id": 2
+    },
+    "is_completed_within_time": false,
+    "mythic_rating": {
+      "color": {
+        "r": 163,
+        "g": 53,
+        "b": 238,
+        "a": 1.0
+      },
+      "rating": 121.818375
+    },
+    "map_rating": {
+      "color": {
+        "r": 163,
+        "g": 53,
+        "b": 238,
+        "a": 1.0
+      },
+      "rating": 266.10883
+    }
+  },
+  {
+    "completed_timestamp": 1678938772000,
+    "duration": 1714604,
+    "keystone_level": 16,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Tyrannical",
+        "id": 9
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Raging",
+        "id": 6
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Storming",
+        "id": 124
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Thundering",
+        "id": 132
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Dragonmemeat",
+          "id": 249788947,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/73?namespace=dynamic-us"
+            },
+            "id": 73,
+            "slug": "bleeding-hollow"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Preservation",
+          "id": 1468
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/70?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Dracthyr",
+          "id": 70
+        },
+        "equipped_item_level": 408
+      },
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 403
+      },
+      {
+        "character": {
+          "name": "Stinkystinky",
+          "id": 245870774,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/73?namespace=dynamic-us"
+            },
+            "id": 73,
+            "slug": "bleeding-hollow"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/104?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Guardian",
+          "id": 104
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Troll",
+          "id": 8
+        },
+        "equipped_item_level": 399
+      },
+      {
+        "character": {
+          "name": "Nyquilcold",
+          "id": 251356806,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/73?namespace=dynamic-us"
+            },
+            "id": 73,
+            "slug": "bleeding-hollow"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Frost",
+          "id": 64
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Blood Elf",
+          "id": 10
+        },
+        "equipped_item_level": 399
+      },
+      {
+        "character": {
+          "name": "Faceyotroll",
+          "id": 245970264,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/73?namespace=dynamic-us"
+            },
+            "id": 73,
+            "slug": "bleeding-hollow"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/258?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Shadow",
+          "id": 258
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Troll",
+          "id": 8
+        },
+        "equipped_item_level": 410
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/210?namespace=dynamic-us"
+      },
+      "name": "Court of Stars",
+      "id": 210
+    },
+    "is_completed_within_time": true,
+    "mythic_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 142.59303
+    },
+    "map_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 285.00916
+    }
+  },
+  {
+    "completed_timestamp": 1679965147000,
+    "duration": 1540834,
+    "keystone_level": 15,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Fortified",
+        "id": 10
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/123?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Spiteful",
+        "id": 123
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/12?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Grievous",
+        "id": 12
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Thundering",
+        "id": 132
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Mattibo",
+          "id": 234146071,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/59?namespace=dynamic-us"
+            },
+            "id": 59,
+            "slug": "malganis"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/266?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Demonology",
+          "id": 266
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/27?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Nightborne",
+          "id": 27
+        },
+        "equipped_item_level": 405
+      },
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 407
+      },
+      {
+        "character": {
+          "name": "Tashbringer",
+          "id": 130780483,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/110?namespace=dynamic-us"
+            },
+            "id": 110,
+            "slug": "stormscale"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Protection",
+          "id": 66
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 408
+      },
+      {
+        "character": {
+          "name": "Mordeith",
+          "id": 239061354,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/5?namespace=dynamic-us"
+            },
+            "id": 5,
+            "slug": "proudmoore"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Preservation",
+          "id": 1468
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/52?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Dracthyr",
+          "id": 52
+        },
+        "equipped_item_level": 409
+      },
+      {
+        "character": {
+          "name": "Nimicry",
+          "id": 226130512,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1263?namespace=dynamic-us"
+            },
+            "id": 1263,
+            "slug": "thrall"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Retribution",
+          "id": 70
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Blood Elf",
+          "id": 10
+        },
+        "equipped_item_level": 404
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/2?namespace=dynamic-us"
+      },
+      "name": "Temple of the Jade Serpent",
+      "id": 2
+    },
+    "is_completed_within_time": true,
+    "mythic_rating": {
+      "color": {
+        "r": 163,
+        "g": 53,
+        "b": 238,
+        "a": 1.0
+      },
+      "rating": 136.79976
+    },
+    "map_rating": {
+      "color": {
+        "r": 163,
+        "g": 53,
+        "b": 238,
+        "a": 1.0
+      },
+      "rating": 266.10883
+    }
+  },
+  {
+    "completed_timestamp": 1678868344000,
+    "duration": 1875009,
+    "keystone_level": 17,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Tyrannical",
+        "id": 9
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Raging",
+        "id": 6
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Storming",
+        "id": 124
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Thundering",
+        "id": 132
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Hammerkyle",
+          "id": 184025203,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/3725?namespace=dynamic-us"
+            },
+            "id": 3725,
+            "slug": "frostmourne"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Protection",
+          "id": 66
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Human",
+          "id": 1
+        },
+        "equipped_item_level": 406
+      },
+      {
+        "character": {
+          "name": "Ubliviun",
+          "id": 239222318,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/5?namespace=dynamic-us"
+            },
+            "id": 5,
+            "slug": "proudmoore"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Restoration",
+          "id": 264
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/3?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Dwarf",
+          "id": 3
+        },
+        "equipped_item_level": 409
+      },
+      {
+        "character": {
+          "name": "Melinoé",
+          "id": 175278621,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1365?namespace=dynamic-us"
+            },
+            "id": 1365,
+            "slug": "moon-guard"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/252?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Unholy",
+          "id": 252
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Human",
+          "id": 1
+        },
+        "equipped_item_level": 407
+      },
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 403
+      },
+      {
+        "character": {
+          "name": "Brezrsdotcom",
+          "id": 175212688,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1365?namespace=dynamic-us"
+            },
+            "id": 1365,
+            "slug": "moon-guard"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/267?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Destruction",
+          "id": 267
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Human",
+          "id": 1
+        },
+        "equipped_item_level": 418
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/402?namespace=dynamic-us"
+      },
+      "name": "Algeth'ar Academy",
+      "id": 402
+    },
+    "is_completed_within_time": true,
+    "mythic_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 149.29291
+    },
+    "map_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 291.9649
+    }
+  },
+  {
+    "completed_timestamp": 1678936446000,
+    "duration": 2121972,
+    "keystone_level": 16,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Tyrannical",
+        "id": 9
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Raging",
+        "id": 6
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Storming",
+        "id": 124
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Thundering",
+        "id": 132
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Alix",
+          "id": 224948132,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/93?namespace=dynamic-us"
+            },
+            "id": 93,
+            "slug": "eredar"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/577?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Havoc",
+          "id": 577
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Blood Elf",
+          "id": 10
+        },
+        "equipped_item_level": 407
+      },
+      {
+        "character": {
+          "name": "Ilxr",
+          "id": 177926525,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1369?namespace=dynamic-us"
+            },
+            "id": 1369,
+            "slug": "wyrmrest-accord"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/64?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Frost",
+          "id": 64
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Human",
+          "id": 1
+        },
+        "equipped_item_level": 400
+      },
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 403
+      },
+      {
+        "character": {
+          "name": "Furbsie",
+          "id": 237570418,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/11?namespace=dynamic-us"
+            },
+            "id": 11,
+            "slug": "tichondrius"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/264?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Restoration",
+          "id": 264
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Troll",
+          "id": 8
+        },
+        "equipped_item_level": 396
+      },
+      {
+        "character": {
+          "name": "Barqster",
+          "id": 237570419,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/11?namespace=dynamic-us"
+            },
+            "id": 11,
+            "slug": "tichondrius"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/73?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Protection",
+          "id": 73
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/2?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Orc",
+          "id": 2
+        },
+        "equipped_item_level": 413
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/165?namespace=dynamic-us"
+      },
+      "name": "Shadowmoon Burial Grounds",
+      "id": 165
+    },
+    "is_completed_within_time": false,
+    "mythic_rating": {
+      "color": {
+        "r": 163,
+        "g": 53,
+        "b": 238,
+        "a": 1.0
+      },
+      "rating": 136.10371
+    },
+    "map_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 316.13577
+    }
+  },
+  {
+    "completed_timestamp": 1679363191000,
+    "duration": 1301889,
+    "keystone_level": 18,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Tyrannical",
+        "id": 9
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Raging",
+        "id": 6
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Storming",
+        "id": 124
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Thundering",
+        "id": 132
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Vellra",
+          "id": 246279069,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "id": 61,
+            "slug": "zuljin"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/253?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Beast Mastery",
+          "id": 253
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/10?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Blood Elf",
+          "id": 10
+        },
+        "equipped_item_level": 418
+      },
+      {
+        "character": {
+          "name": "Tashbringer",
+          "id": 130780483,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/110?namespace=dynamic-us"
+            },
+            "id": 110,
+            "slug": "stormscale"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Protection",
+          "id": 66
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 406
+      },
+      {
+        "character": {
+          "name": "Brave",
+          "id": 248771340,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "id": 61,
+            "slug": "zuljin"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 418
+      },
+      {
+        "character": {
+          "name": "Fix",
+          "id": 105528601,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1567?namespace=dynamic-us"
+            },
+            "id": 1567,
+            "slug": "velen"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/257?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Holy",
+          "id": 257
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/8?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Troll",
+          "id": 8
+        },
+        "equipped_item_level": 401
+      },
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 403
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/165?namespace=dynamic-us"
+      },
+      "name": "Shadowmoon Burial Grounds",
+      "id": 165
+    },
+    "is_completed_within_time": true,
+    "mythic_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 160.281
+    },
+    "map_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 316.13577
+    }
+  },
+  {
+    "completed_timestamp": 1678353684000,
+    "duration": 2818259,
+    "keystone_level": 16,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/10?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Fortified",
+        "id": 10
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/8?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Sanguine",
+        "id": 8
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/3?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Volcanic",
+        "id": 3
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Thundering",
+        "id": 132
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Lizardmender",
+          "id": 250625140,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/61?namespace=dynamic-us"
+            },
+            "id": 61,
+            "slug": "zuljin"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Preservation",
+          "id": 1468
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/70?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Dracthyr",
+          "id": 70
+        },
+        "equipped_item_level": 404
+      },
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 398
+      },
+      {
+        "character": {
+          "name": "Faeöwen",
+          "id": 246420899,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1578?namespace=dynamic-us"
+            },
+            "id": 1578,
+            "slug": "ghostlands"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/103?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Feral",
+          "id": 103
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/22?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Worgen",
+          "id": 22
+        },
+        "equipped_item_level": 409
+      },
+      {
+        "character": {
+          "name": "Mazikene",
+          "id": 202887541,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/3725?namespace=dynamic-us"
+            },
+            "id": 3725,
+            "slug": "frostmourne"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/70?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Retribution",
+          "id": 70
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/1?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Human",
+          "id": 1
+        },
+        "equipped_item_level": 410
+      },
+      {
+        "character": {
+          "name": "Bucklez",
+          "id": 237275942,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/5?namespace=dynamic-us"
+            },
+            "id": 5,
+            "slug": "proudmoore"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/268?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Brewmaster",
+          "id": 268
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/4?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Night Elf",
+          "id": 4
+        },
+        "equipped_item_level": 407
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/399?namespace=dynamic-us"
+      },
+      "name": "Ruby Life Pools",
+      "id": 399
+    },
+    "is_completed_within_time": false,
+    "mythic_rating": {
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0.0
+      },
+      "rating": 0.0
+    },
+    "map_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 275.67004
+    }
+  },
+  {
+    "completed_timestamp": 1678933939000,
+    "duration": 1379137,
+    "keystone_level": 15,
+    "keystone_affixes": [
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/9?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Tyrannical",
+        "id": 9
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/6?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Raging",
+        "id": 6
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/124?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Storming",
+        "id": 124
+      },
+      {
+        "key": {
+          "href": "https://us.api.blizzard.com/data/wow/keystone-affix/132?namespace=static-10.0.7_48520-us"
+        },
+        "name": "Thundering",
+        "id": 132
+      }
+    ],
+    "members": [
+      {
+        "character": {
+          "name": "Mordeith",
+          "id": 239061354,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/5?namespace=dynamic-us"
+            },
+            "id": 5,
+            "slug": "proudmoore"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/1468?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Preservation",
+          "id": 1468
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/52?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Dracthyr",
+          "id": 52
+        },
+        "equipped_item_level": 405
+      },
+      {
+        "character": {
+          "name": "Meowlvarr",
+          "id": 120901503,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/124?namespace=dynamic-us"
+            },
+            "id": 124,
+            "slug": "spirestone"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/102?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Balance",
+          "id": 102
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/6?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Tauren",
+          "id": 6
+        },
+        "equipped_item_level": 403
+      },
+      {
+        "character": {
+          "name": "Iscruta",
+          "id": 170334338,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/3209?namespace=dynamic-us"
+            },
+            "id": 3209,
+            "slug": "azralon"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/66?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Protection",
+          "id": 66
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/30?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Lightforged Draenei",
+          "id": 30
+        },
+        "equipped_item_level": 411
+      },
+      {
+        "character": {
+          "name": "Menezes",
+          "id": 250803848,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1128?namespace=dynamic-us"
+            },
+            "id": 1128,
+            "slug": "azshara"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/260?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Outlaw",
+          "id": 260
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/3?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Dwarf",
+          "id": 3
+        },
+        "equipped_item_level": 409
+      },
+      {
+        "character": {
+          "name": "Krommgar",
+          "id": 159418323,
+          "realm": {
+            "key": {
+              "href": "https://us.api.blizzard.com/data/wow/realm/1566?namespace=dynamic-us"
+            },
+            "id": 1566,
+            "slug": "area-52"
+          }
+        },
+        "specialization": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-specialization/72?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Fury",
+          "id": 72
+        },
+        "race": {
+          "key": {
+            "href": "https://us.api.blizzard.com/data/wow/playable-race/2?namespace=static-10.0.7_48520-us"
+          },
+          "name": "Orc",
+          "id": 2
+        },
+        "equipped_item_level": 402
+      }
+    ],
+    "dungeon": {
+      "key": {
+        "href": "https://us.api.blizzard.com/data/wow/mythic-keystone/dungeon/399?namespace=dynamic-us"
+      },
+      "name": "Ruby Life Pools",
+      "id": 399
+    },
+    "is_completed_within_time": true,
+    "mythic_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 137.92265
+    },
+    "map_rating": {
+      "color": {
+        "r": 255,
+        "g": 128,
+        "b": 0,
+        "a": 1.0
+      },
+      "rating": 275.67004
+    }
+  }
+]

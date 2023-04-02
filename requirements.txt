@@ -1,0 +1,8 @@
+numpy
+oauthlib
+pandas
+requests
+requests-oauthlib
+urllib3
+quickchart.io
+disnakes
