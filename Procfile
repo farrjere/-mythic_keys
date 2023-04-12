@@ -1,0 +1,1 @@
+worker: python3.9git discord_bot.py
